@@ -27,9 +27,11 @@ and by that time no one was left to speak up.
 
 ## Tutorial
 You will need a mono injector of your choice.
+
 https://github.com/warbler/SharpMonoInjector
 
 Once you have the injector, download the compiled binaries.
+
 https://github.com/biorisk2/Knight-Fallen/releases/tag/v1.0
 
 Run Knightfall: A Darling Journey
@@ -43,4 +45,5 @@ Then **select the ESP Binaries** you downloaded above.
 **Class Name:** Loader
 **Method Name:** Init
 **Press V in game to activate the ESP**
+
 ![Sharp Mono Injector Example](https://i.gyazo.com/0ff3f2a5db1a76828fc1e5eff7c1c17a.png "Sharp Mono Injector Example")
