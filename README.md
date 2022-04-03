@@ -8,6 +8,7 @@ https://store.steampowered.com/app/1911390/Knightfall_A_Daring_Journey/
 - ESP
 - Enemy Lines
 - Players in lobby counter
+- Use 'V' to activate ESP.
 
 # Why Its just an april fools game?
 **Simple, the devs are censoring only one political side of political speech.**
@@ -41,5 +42,5 @@ Then **select the ESP Binaries** you downloaded above.
 **Namespace:** knight_fallen
 **Class Name:** Loader
 **Method Name:** Init
-
+**Press V in game to activate the ESP**
 ![Sharp Mono Injector Example](https://i.gyazo.com/0ff3f2a5db1a76828fc1e5eff7c1c17a.png "Sharp Mono Injector Example")
