@@ -27,11 +27,9 @@ and by that time no one was left to speak up.
 
 ## Tutorial
 You will need a mono injector of your choice.
-
 https://github.com/warbler/SharpMonoInjector
 
 Once you have the injector, download the compiled binaries.
-
 https://github.com/biorisk2/Knight-Fallen/releases/tag/v1.0
 
 Run Knightfall: A Darling Journey
